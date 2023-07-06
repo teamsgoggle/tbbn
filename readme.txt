@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-IMMINENT is a modern and elegant free coming soon website template. A fully-featured, handcrafted 
+TBBN is a modern and elegant free coming soon website template. A fully-featured, handcrafted 
 website template built with attention to details. The template is also versatile you can use it 
 for different types of websites like agencies, personal sites, small business, etc. You're gonna 
 love its beautifully designed hero banner with its subtle animation and nice typography. It has 
@@ -75,7 +75,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since IMMINENT is distributed for free, support is not offered. IMMINENT is coded according 
+Since TBBN is distributed for free, support is not offered. TBBN is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
